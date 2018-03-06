@@ -1,0 +1,1 @@
+The basic script of PHP OOP
