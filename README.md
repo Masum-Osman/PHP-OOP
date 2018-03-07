@@ -1,3 +1,1 @@
-The basic script of PHP OOP
-
-Not for Intermediate
+The basic script of PHP OOP for Begginer
