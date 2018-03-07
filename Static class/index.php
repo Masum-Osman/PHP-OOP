@@ -1,6 +1,6 @@
 <?php
 
-//Static class ( without keeping the class to a variable )
+//Static class ( without keeping the class to a variable or instansiate )
 
 class Person{
 	public static $age = 20;
