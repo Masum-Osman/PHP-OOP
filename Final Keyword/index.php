@@ -1,6 +1,6 @@
 <?php
 
-//final ( the final class & final method are not inheritable and the methor overwritable but reusable )
+//final ( the final class & final method are not inheritable and the method overwritable but reusable )
 
 final class Person{
 	public function __construct(){
